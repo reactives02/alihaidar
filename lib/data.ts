@@ -71,7 +71,7 @@ export const projectsData = [
   },
   
   {
-    title: "DevConnector",
+    title: "DevConnector Clone",
     description:
       "Community web app for developer. It has features like authentication, posts and dashboard.",
     tags: ["React", "Tailwind", "Firebase", "Toastify", "Formik", "axios"],
