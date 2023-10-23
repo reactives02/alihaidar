@@ -76,7 +76,7 @@ export const projectsData = [
       "Community web app for developer. It has features like authentication, posts and dashboard.",
     tags: ["React", "Tailwind", "Firebase", "Toastify", "Formik", "axios"],
     imageUrl: DevApp,
-    webLink:""
+    webLink:"https://devclonex.vercel.app/"
   },
   {
     title: "Food Ninja",
